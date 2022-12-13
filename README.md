@@ -1,5 +1,7 @@
 <h1 align="center">myTermux</h1>
 
+<h5 align="center">Termux</h5>
+
 <p align="center">This is my personal configuration for my favorite Termux</p>
 
 <p align="center">
